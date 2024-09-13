@@ -9,3 +9,6 @@ def devide(a, b):
 
 def multiply(a, b):
     return a * b
+
+def rest_time():
+    print('쉬는시간!!')

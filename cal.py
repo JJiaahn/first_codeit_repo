@@ -13,6 +13,6 @@ def multiply(a, b):
 def rest_time():
     print('쉬는시간!!')
 
-def adv_premium():
+def adv_new():
     print('광고를 보세요')
-    print('이 광고는 유료 사용자용 광고입니다')
+    print('이 광고는 유료/무료 사용자 모두 보이는 광고입니다')

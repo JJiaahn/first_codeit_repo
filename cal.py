@@ -12,3 +12,6 @@ def multiply(a, b):
 
 def rest_time():
     print('쉬는시간!!')
+
+def adv():
+    print('광고를 보세요')
